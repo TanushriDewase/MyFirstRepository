@@ -1,7 +1,8 @@
 <html>
 <title>Tanushri CS24181</title>
-<h1>Potato chips<br>
-French fries<br></h1>
+<h1>List of 20 junk foods</h1>
+<h2>Potato chips<br>
+French fries<br></h2>
 <h3>Pizza<br>
 Burgers<br></h3>
 <h5>Fried chicken<br>
